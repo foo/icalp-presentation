@@ -1,0 +1,6 @@
+In the Online Multiple Knapsack problem, a stream of items arrive one-by-one.
+Upon seeing an item, we either reject it, or store it in one of our bins.
+While doing so, we cannot exceed the capacity of any bin.
+Our goal is to maximize the total load of items stored in our bins.
+
+The goal is to maximize the total size of packed items.
